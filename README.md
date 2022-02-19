@@ -1,6 +1,8 @@
 ### Systems Developer @ Tata Consultancy Services 
 ***
 Welcome to my personal github where I tend to just explore code and make projects for fun!
+
+[![My Top Langu9](https://github-readme-stats.vercel.app/api/top-langs/?username=cassidyRonan)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cassidyRonan/cassidyRonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
