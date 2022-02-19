@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Systems Developer @ Tata Consultancy Services 
+***
+Welcome to my personal github where I tend to just explore code and make projects for fun!
 <!--
 **cassidyRonan/cassidyRonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
